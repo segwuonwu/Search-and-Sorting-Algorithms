@@ -13,7 +13,7 @@ bubbleSort([7,4,15,2,3])
 console.log();
 
 console.log('insertionSort');
-insertionSort([7,4,15,2,3])
+console.log(insertionSort([7,4,15,2,3]));
 console.log();
 
 console.log('quickSort');

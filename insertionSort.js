@@ -10,7 +10,7 @@ function insertionSort(arr){
         }
       	arr[j+1] = val;
     } 
-  	console.log(arr);
+  	return arr;
 }
 
 export default insertionSort;
